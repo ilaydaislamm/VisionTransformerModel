@@ -1,0 +1,6 @@
+data/
+Caltech101/
+__pycache__/
+.venv/
+.idea/
+*.pth
